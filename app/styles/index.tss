@@ -1,0 +1,9 @@
+".container": {
+	backgroundColor:"white",
+	fullscreen:true,
+	
+},
+"#webview": {
+	width: Titanium.UI.FILL,
+	height: Titanium.UI.FILL
+}

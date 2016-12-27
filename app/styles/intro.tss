@@ -1,0 +1,9 @@
+"#intro" : {
+  
+},
+"#ready":{
+	title:"Lo tengo",
+	color:"#FFF",
+	bottom:5,
+	right:5
+}

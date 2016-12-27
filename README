@@ -1,0 +1,15 @@
+# Wev View
+## Version 0.1 Horda
+### Autor. Daniel Huidobro daniel.hui287@gmail.com
+### Proyecto en Appcelerator
+- Muestra un carrusel de imagenes (Intro)
+- Utiliza SQLite para hacer un marcador y mostrar el intro solo una vez
+- Muestra una pagina web
+
+http://www.appcelerator.com/
+http://elhui2.info/
+
+Copyleft.
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+https://www.gnu.org/licenses/gpl-3.0.html

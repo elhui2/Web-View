@@ -1,0 +1,10 @@
+<Alloy>
+	<Window id="intro">
+		<ScrollableView id="scroller">
+			<ImageView image="http://placehold.it/768x1024?text=Intro Uno"/>
+			<ImageView image="http://placehold.it/768x1024?text=Intro Dos"/>
+			<ImageView image="http://placehold.it/768x1024?text=Intro Tres"/>
+		</ScrollableView>
+		<Button id="ready"></Button>
+	</Window>
+</Alloy>
